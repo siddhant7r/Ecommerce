@@ -1,0 +1,60 @@
+{
+    "product":[{
+        "id":1,
+        "name" :"Cornus Kousa",
+        "description":"White flower plant",
+        "price":500,
+        "images":"cornus.jpg"
+    },
+    {
+        "id":2,
+        "name" :"Clematis",
+        "description":"Purple flower",
+        "price":1000,
+        "images":"clematis1.jpg"
+    },
+    {
+        "id":3,
+        "name" :"Acer",
+        "description":"Red stylish flower",
+        "price":1200,
+        "images":"acer1.jpg"
+    },
+    {
+        "id":4,
+        "name" :"Rosa",
+        "description":"Most famous Rose",
+        "price":800,
+        "images":"rosa1.jpg"
+    },
+    {
+        "id":5,
+        "name" :"Tulips",
+        "description":"Tulips",
+        "price":800,
+        "images":"tulips.jpg"
+    },
+    {
+        "id":6,
+        "name" :"Daisy",
+        "description":"Daisys",
+        "price":750,
+        "images":"daisy.jpg"
+    },
+    {
+        "id":7,
+        "name" :"Rosa",
+        "description":"Most famous Rose",
+        "price":600,
+        "images":"dahlia.jpg"
+    },
+    {
+        "id":8,
+        "name" :"Orchid",
+        "description":"Yellow Flower",
+        "price":550,
+        "images":"orchid.jpg"
+    }
+        
+    ]
+}

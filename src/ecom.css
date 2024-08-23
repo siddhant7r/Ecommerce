@@ -1,0 +1,27 @@
+.footer{
+    height: 300px;
+    width: 300px;
+}
+
+
+.products{
+    align-items: center;
+    margin-left: 500px;
+    
+}
+
+#tokri
+{
+    padding: 3px;
+    /* border-radius: 50%; */
+    
+    color: rgb(28, 208, 133);
+    font-size: 13px;
+    font-weight: bold;
+   
+    
+}
+
+.products img{
+    margin-top: 40px;
+}
